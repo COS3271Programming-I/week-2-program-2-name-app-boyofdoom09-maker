@@ -26,4 +26,5 @@ public class Im {
         System.out.println("Age: " + x);
         System.out.println("Average amount of sleep (in hours):" + y);
         
-        scanner.close(); 
+        scanner.close(); }
+}
